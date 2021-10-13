@@ -1,3 +1,5 @@
-# MichelRabar.github.io
+# Repozitorij moje osobne web stranice
 
-TESTT!!!
+Ovdje će se nalaziti HTML/CSS, možda i JavaScript koji čini moju osobnu web stranicu.
+
+Adresa web stranice jest https://MichelRabar.github.io
